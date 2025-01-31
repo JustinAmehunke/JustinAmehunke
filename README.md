@@ -7,10 +7,10 @@
 <br/>
 <br/>
 
-- 🌱 I’m trying to leave a footprint
+- 🌱 Crafting cutting-edge web solutions tailored for Startups, Enterprises, and SMBs.
 - 💞️ Here to serve
-- 🔭 I’m currently working on [React Beginner to Professional](https://github.com/JustinAmehunke/react-beginner-to-professional)  
-- ❓ Ask me about anything related to MERN stack and related technologies
+- 🔭 I’m currently working on [CASASCI - A Real Estate tokenization platform](https://customer-realt.vercel.app/)  
+- ❓ Ask me about anything related to PHP-Laravel-Node-MySQL-React-AWS stack and related technologies
 - 🌱 I’m currently learning more about Blockchain  
 <br/>
 
