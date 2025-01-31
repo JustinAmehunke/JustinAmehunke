@@ -47,9 +47,9 @@
 
 <br/>  
 <br/>
-
+<!--- 
 - 🚀 Wondering what I have been up to lately?
-<!--- - 👀 I’m interested in JavaScript, Tailwind CSS, PHP, Laravel, MySQL, PostgreSQL
+- 👀 I’m interested in JavaScript, Tailwind CSS, PHP, Laravel, MySQL, PostgreSQL
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
