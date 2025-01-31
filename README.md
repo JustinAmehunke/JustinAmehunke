@@ -10,7 +10,7 @@
 - 🌱 Crafting cutting-edge web solutions tailored for Startups, Enterprises, and SMBs.
 - 💞️ Here to serve
 - 🔭 I’m currently working on [CASASCI - A Real Estate tokenization platform](https://customer-realt.vercel.app/)  
-- ❓ Ask me about anything related to PHP-Laravel-Node-MySQL-React-AWS stack and related technologies
+- ❓ Ask me about anything related to the web technologies listed below
 - 🌱 I’m currently learning more about Blockchain  
 <br/>
 
