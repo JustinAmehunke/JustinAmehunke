@@ -53,9 +53,10 @@
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---->
+
  <img src="https://github.com/JustinAmehunke/JustinAmehunke/assets/59491451/c879db2b-7ab2-4907-a236-7f51153aa827"> </img>
  ![Screenshot 2024-04-26 at 17-33-46 Justin Amehunke ·  GitLab]
+ --->
 <!---
 ![Screenshot 2024-04-26 at 17-33-46 Justin Amehunke ·  GitLab](https://github.com/JustinAmehunke/JustinAmehunke/assets/59491451/c879db2b-7ab2-4907-a236-7f51153aa827)
 
