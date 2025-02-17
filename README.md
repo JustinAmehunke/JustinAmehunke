@@ -34,7 +34,7 @@
 <code>Cypress</code> <code>Mocha</code> <code>Vitest</code> <code>Postman</code> <code>Insomnia</code></p>
 <p dir="auto"><strong>Version Control:</strong> <code>Git</code> <code>GitLab</code></p> -->
 <p dir="auto"><strong>Others:</strong> <code>AWS</code> <code>Docker</code> <code>Notion</code></p>
-<p dir="auto">- 🌱 I’m currently working on [CASASCI - A Real Estate tokenization platform](https://customer-realt.vercel.app/) </p>
+<p>🌱 I’m currently working on <a href="https://customer-realt.vercel.app/" target="_blank">CASASCI - A Real Estate tokenization platform</a></p>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">✨ Other things</h2><a id="user-content--other-things" class="anchor" aria-label="Permalink: ✨ Other things" href="#-other-things"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul dir="auto">
   <li>I enjoy playing football and hitting the gym</li>
@@ -48,5 +48,5 @@
 <a href="https://x.com/AmehunkeJ" rel="nofollow"><img src="https://camo.githubusercontent.com/28edb3e7e9c2774e6de51cfb2e3f841b93a5aad753c7e272db68f1034381fdae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://justinamehunke.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/1acec6bc44a5c4bc5f0b0fd5894f79683f95be00b9fdffea50be6ebd259fa71a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465762e746f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d6465762e746f266c6f676f436f6c6f723d7768697465" alt="dev.to" data-canonical-src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" style="max-width: 100%;"></a></p>
 </article>
-  
+
 
